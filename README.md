@@ -5,5 +5,6 @@ Jika anda tertarik untuk menjadi volunter, silahkan lakukan PR (Pull Request) pa
 Silahkan gunakan format berikut:<br>
 **\*Nama,[Linkdln/GitHub/Website](Alamat URL).**
 
-Berikut adalah daftar volunter yang diterima:
-*Oon Arfiandwi, [oo.or.id] (https://oo.or.id)
+Berikut adalah daftar volunter yang diterima:<br>
+*Oon Arfiandwi, [oo.or.id] (https://oo.or.id)<br>
+*Andi Batari Saudah Sajidah, [GitHub] (https://github.com/ndbxtr)<br>
